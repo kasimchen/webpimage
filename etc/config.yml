@@ -1,0 +1,21 @@
+mysql:
+  host: 129.211.88.115
+  db: pictool
+  user: pictool
+  password: pictool
+  port: 3306
+
+redis:
+  host: 127.0.0.1
+  password:
+  port: 6379
+  maxidle: 500
+  maxactive: 1000
+
+rabbitMq:
+  host: 10.211.55.38
+  user: root
+  password: root
+  port: 5672
+
+
